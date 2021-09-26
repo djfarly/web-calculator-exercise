@@ -1,7 +1,7 @@
 // TODO: import things from other modules here
 
 const handleCalculate = (event) => {
-  // TODO: use event.target to figure out operation, then calculate and output the result
+  // TODO: use event.target to figure out the operation, then calculate and output the result
 };
 
 const handleRandom = (event) => {
