@@ -1,15 +1,9 @@
-export const add = (a, b) => {
-  // TODO: implement addition
-};
+export const add = (a, b) => a + b;
 
-export const subtract = (a, b) => {
-  // TODO: implement subtraction
-};
+export const subtract = (a, b) => a - b;
 
-export const multiply = (a, b) => {
-  // TODO: implement multiplication
-};
+export const multiply = (a, b) => a * b;
 
-export const divide = (a, b) => {
-  // TODO: implement division
-};
+export const divide = (a, b) => a / b;
+
+export const exponentiate = (a, b) => a ** b;
